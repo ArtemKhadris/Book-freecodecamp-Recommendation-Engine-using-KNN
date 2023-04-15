@@ -1,4 +1,4 @@
-# Book-freecodecamp-Recommendation-Engine-using-KNN
+# Book Recommendation Engine using KNN
 
 You will be [working on this project with Google Colaboratory](https://colab.research.google.com/github/freeCodeCamp/boilerplate-book-recommendation-engine/blob/master/fcc_book_recommendation_knn.ipynb).
 
